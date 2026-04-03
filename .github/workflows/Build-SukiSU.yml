@@ -20,7 +20,7 @@ on:
         type: choice
         description: "配置文件"
         required: true
-        default: oneplus_11_v
+        default: oneplus_11_t
         options:
           - oneplus_nord_ce4_v
           - oneplus_ace_3v_v
